@@ -1,7 +1,9 @@
 /**
  * @name AccountSwitcher
  * @displayName AccountSwitcher
- * @source https://github.com/l0c4lh057/AccountSwitcher/blob/master/AccountSwitcher.plugin.js
+ * @website https: //github.com/devpixel12/better-discord-stuff
+ * @source https://github.com/devpixel12/better-discord-stuff/blob/master/plugins/AccountSwitcher.plugin.js
+ * @developer pixeljellyfish
  * @authorId 236043816623276033
  */
 
